@@ -1,0 +1,15 @@
+.TableHead {
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    background-color: rgb(163, 228, 163);
+}
+
+.TableHead__Item {
+    flex: 1;
+    padding: 10px;
+    text-align: center;
+    font-weight: 700;
+    color: rgb(1, 122, 1);
+    border: 1px solid rgb(165, 165, 165);
+}
